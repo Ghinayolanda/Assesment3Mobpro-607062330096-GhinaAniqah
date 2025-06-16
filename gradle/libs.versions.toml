@@ -18,6 +18,7 @@ androidImageCropper = "4.5.0"
 storage = "1.4.2"
 firebaseCrashlyticsBuildtools = "3.0.4"
 volley = "1.2.1"
+materialIconsExtended = "1.6.8"
 
 
 [libraries]
@@ -48,6 +49,7 @@ android-image-cropper = { module = "com.vanniktech:android-image-cropper", versi
 androidx-storage = { group = "androidx.test.services", name = "storage", version.ref = "storage" }
 firebase-crashlytics-buildtools = { group = "com.google.firebase", name = "firebase-crashlytics-buildtools", version.ref = "firebaseCrashlyticsBuildtools" }
 volley = { group = "com.android.volley", name = "volley", version.ref = "volley" }
+androidx-material-icons-extended = { group = "androidx.compose.material", name = "material-icons-extended", version.ref = "materialIconsExtended" }
 
 
 [plugins]

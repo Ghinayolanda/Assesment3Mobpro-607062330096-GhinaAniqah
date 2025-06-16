@@ -11,4 +11,7 @@
     <string name="nama_latin">Nama latin</string>
     <string name="batal">Batal</string>
     <string name="simpan">Simpan</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="pilihGambar">Pilih Gambar</string>
 </resources>
