@@ -71,6 +71,8 @@ dependencies {
     implementation(libs.androidx.datastore.preferences)
     implementation(libs.android.image.cropper)
     implementation(libs.androidx.storage)
+    implementation(libs.firebase.crashlytics.buildtools)
+    implementation(libs.volley)
 
 
     testImplementation(libs.junit)
